@@ -17,3 +17,12 @@ h1{
    font-size: 36px;
    text-align: center;
 }
+h2{
+   font-family: "Fascinate InLine", cursive;
+   font-size: 36px;
+}
+p{
+   font-family: "Josefin Sans", sans-serif;
+   font-size: 18px;
+   text-align: center;
+}
