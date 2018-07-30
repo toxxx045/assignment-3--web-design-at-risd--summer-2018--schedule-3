@@ -2,7 +2,7 @@ body{
    background-color: #04CBFF;
 }
 h1{
-   font-family: "Fascinate InLine";
+   font-family: "Fascinate InLine", cursive;
    font-size: 72px;
    text-align: center;
 }
@@ -11,4 +11,9 @@ h1{
 }
 #of-size{
    font-size: 50px;
+}
+#sub-heading{
+   font-family: "Josefin Sans", sans-serif;
+   font-size: 36px;
+   text-align: center;
 }
