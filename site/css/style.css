@@ -16,4 +16,9 @@ h2 {
   color: #E8992D;
   margin-left: 200px; }
 
+p {
+  font-family: Roboto, Arial, sanserif;
+  font-size: 24px;
+  line-height: 1.5; }
+
 /*# sourceMappingURL=style.css.map */
