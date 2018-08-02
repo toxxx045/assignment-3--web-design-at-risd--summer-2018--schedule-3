@@ -5,17 +5,25 @@ body {
 h1 {
   font-family: Gruppo, Helvetica, sanserif;
   font-size: 72px;
-  margin: 60px; }
+  padding-bottom: 10px;
+  border-bottom: solid black;
+  border-width: 3px;
+  border-color: #E8992D;
+  margin-top: 60px;
+  margin-left: 60px; }
   h1 > #Ten-size {
     font-size: 90px;
     color: #E8992D; }
-  h1 > #sub-heading {
-    font-size: 40px;
-    color: #E8992D; }
+
+#sub-heading {
+  font-family: Gruppo, Helvetica, sanserif;
+  font-size: 40px;
+  color: black;
+  margin-left: 220px; }
 
 h2 {
   font-family: Gruppo, Helvetica, sanserif;
-  font-size: 50px;
+  font-size: 90px;
   color: #E8992D;
   margin-left: 200px; }
 
@@ -26,5 +34,8 @@ p {
   margin-left: 500px; }
   p > .first-sentence {
     color: #E8992D; }
+
+img {
+  margin-left: 60px; }
 
 /*# sourceMappingURL=style.css.map */
