@@ -1,17 +1,17 @@
 body {
   background-color: #FFFFFF;
-  width: 1024px;
+  width: 1380px;
   margin-bottom: 100px; }
 
 h1 {
   font-family: Gruppo, Helvetica, sanserif;
   font-size: 72px;
   padding-bottom: 10px;
+  margin-top: 30px;
+  text-align: center;
   border-bottom: solid black;
   border-width: 3px;
-  border-color: #E8992D;
-  margin-top: 60px;
-  margin-left: 60px; }
+  border-color: #E8992D; }
   h1 > #Ten-size {
     font-size: 90px;
     color: #E8992D; }
@@ -20,26 +20,36 @@ h1 {
   font-family: Gruppo, Helvetica, sanserif;
   font-size: 40px;
   color: black;
-  margin-left: -100px; }
+  margin-left: -50px; }
 
 h2 {
   font-family: Gruppo, Helvetica, sanserif;
-  font-size: 90px;
+  font-size: 200px;
   color: #E8992D;
-  margin-left: 200px;
-  margin-top: 200px;
-  display: flex; }
+  margin-left: 650px; }
 
 p {
   font-family: Roboto, Arial, sanserif;
   font-size: 24px;
   line-height: 1.5;
-  margin-left: 600px; }
+  margin-left: 650px;
+  margin-right: 50px; }
   p > .first-sentence {
     color: #E8992D; }
+  p #content-container {
+    margin-top: 2000px; }
 
 img {
-  margin-left: 200px;
-  margin-top: 20px; }
+  margin-left: 80px;
+  margin-top: 200px;
+  margin-bottom: -300px; }
+
+.container {
+  display: flex; }
+  .container > .product-container {
+    margin: auto;
+    margin-top: 30px; }
+    .container > .product-container > img {
+      margin: 10px; }
 
 /*# sourceMappingURL=style.css.map */
