@@ -9,6 +9,9 @@ h1 {
   h1 > #Ten-size {
     font-size: 90px;
     color: #E8992D; }
+  h1 > #sub-heading {
+    font-size: 40px;
+    color: #E8992D; }
 
 h2 {
   font-family: Gruppo, Helvetica, sanserif;
@@ -19,6 +22,9 @@ h2 {
 p {
   font-family: Roboto, Arial, sanserif;
   font-size: 24px;
-  line-height: 1.5; }
+  line-height: 1.5;
+  margin-left: 500px; }
+  p > .first-sentence {
+    color: #E8992D; }
 
 /*# sourceMappingURL=style.css.map */
