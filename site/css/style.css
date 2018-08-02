@@ -1,6 +1,7 @@
 body {
   background-color: #FFFFFF;
-  width: 1024px; }
+  width: 1024px;
+  margin-bottom: 100px; }
 
 h1 {
   font-family: Gruppo, Helvetica, sanserif;
@@ -25,7 +26,8 @@ h2 {
   font-family: Gruppo, Helvetica, sanserif;
   font-size: 90px;
   color: #E8992D;
-  margin-left: 200px; }
+  margin-left: 200px;
+  margin-top: 200px; }
 
 p {
   font-family: Roboto, Arial, sanserif;
